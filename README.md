@@ -1,10 +1,7 @@
-# git-blog-content
-git-blog-content
-test test test test
-test test test
-test test
-sdfsdfsdf
-dsfsdfsdfsdfsdf
-sdfsdfdfsdfsdfsdfsdfsdf
-dsfsdfsdfsdfsdf
-
+---
+layout: post
+title:  "Test"
+date:   2017-02-21
+categories: jekyll update
+---
+big blog
